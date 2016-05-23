@@ -1,0 +1,18 @@
+c:\users\андрій\documents\visual studio 2015\Projects\KR\KR\bin\Debug\KR.exe.config
+c:\users\андрій\documents\visual studio 2015\Projects\KR\KR\bin\Debug\KR.exe
+c:\users\андрій\documents\visual studio 2015\Projects\KR\KR\bin\Debug\KR.pdb
+c:\users\андрій\documents\visual studio 2015\Projects\KR\KR\obj\Debug\KR.csprojResolveAssemblyReference.cache
+c:\users\андрій\documents\visual studio 2015\Projects\KR\KR\obj\Debug\KR.Form1.resources
+c:\users\андрій\documents\visual studio 2015\Projects\KR\KR\obj\Debug\KR.Properties.Resources.resources
+c:\users\андрій\documents\visual studio 2015\Projects\KR\KR\obj\Debug\KR.csproj.GenerateResource.Cache
+c:\users\андрій\documents\visual studio 2015\Projects\KR\KR\obj\Debug\KR.exe
+c:\users\андрій\documents\visual studio 2015\Projects\KR\KR\obj\Debug\KR.pdb
+d:\C#\KR\KR\bin\Debug\KR.exe.config
+d:\C#\KR\KR\obj\Debug\KR.exe
+d:\C#\KR\KR\obj\Debug\KR.pdb
+d:\C#\KR\KR\bin\Debug\KR.exe
+d:\C#\KR\KR\bin\Debug\KR.pdb
+d:\C#\KR\KR\obj\Debug\KR.csprojResolveAssemblyReference.cache
+d:\C#\KR\KR\obj\Debug\KR.Form1.resources
+d:\C#\KR\KR\obj\Debug\KR.Properties.Resources.resources
+d:\C#\KR\KR\obj\Debug\KR.csproj.GenerateResource.Cache

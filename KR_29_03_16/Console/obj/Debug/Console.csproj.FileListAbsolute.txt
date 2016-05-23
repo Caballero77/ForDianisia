@@ -1,0 +1,9 @@
+c:\users\андрій\documents\visual studio 2015\Projects\KR_29_03_16\Console\bin\Debug\Console.exe.config
+c:\users\андрій\documents\visual studio 2015\Projects\KR_29_03_16\Console\obj\Debug\Console.csprojResolveAssemblyReference.cache
+c:\users\андрій\documents\visual studio 2015\Projects\KR_29_03_16\Console\bin\Debug\Console.exe
+c:\users\андрій\documents\visual studio 2015\Projects\KR_29_03_16\Console\bin\Debug\Console.pdb
+c:\users\андрій\documents\visual studio 2015\Projects\KR_29_03_16\Console\obj\Debug\Console.exe
+c:\users\андрій\documents\visual studio 2015\Projects\KR_29_03_16\Console\obj\Debug\Console.pdb
+d:\C#\KR_29_03_16\Console\bin\Debug\Console.exe.config
+d:\C#\KR_29_03_16\Console\obj\Debug\Console.exe
+d:\C#\KR_29_03_16\Console\obj\Debug\Console.pdb
